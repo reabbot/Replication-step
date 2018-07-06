@@ -1,3 +1,7 @@
+
+The replication step recreates the data and test results of the work of Jay Ulfelder, below is the read-me text on his projects git-hub.
+
+**************************************************************************************************************************
 cpg-statrisk-2014
 =================
 
@@ -15,3 +19,4 @@ A data dictionary for that file cab be found here as varlist.txt.
 Note that results of any re-estimation will not exactly match results described in the blog post because Random Forests entails some randomized elements (duh!) that will produce a slightly different forest, and thus forecasts, each time the process is rerun. The results for all of the logistic regression models should match exactly, however, and the unweighted average of the estimates from the three models of mass-killing onset should be very close to the ones presented in the post.
 
 I did this work under contract to the U.S. Holocaust Memorial Museum's Center for the Prevention of Genocide. All errors are my own.
+********************************************************************************************************************************
